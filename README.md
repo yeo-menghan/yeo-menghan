@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yeo Meng Han
 ====================================================================================================================================
 
-AI Engineer, Robotics and VR/AR Enthusiast
+AI Engineer, Cloud and VR/AR Enthusiast
 ------------------------------------------
 
-Hi! I'm an undergraduate at the National University of Singapore (NUS) studying computer engineering under the Engineering Scholars (E-Scholars) Programme. I'm passionate about entrepreneurship and developments in the field of technology and innovation - specifically the forefront of Robotics and AI. I am currently at NUS Overseas College Vietnam, interning under Rockship.
+Hi! I'm an undergraduate at the National University of Singapore (NUS) studying computer engineering under the Engineering Scholars (E-Scholars) Programme. I'm passionate about entrepreneurship and developments in the field of technology and innovation - specifically the forefront of AI. I am currently undertaking my final semester of Undergrad at NUS. I will be embarking in a Masters of Science in Data Science and Machine Learning starting next semester at NUS!
 
 * 🌍  I'm based in Singapore
 * ✉️  You can contact me at [yeomenghan1989@gmail.com](mailto:yeomenghan1989@gmail.com)
