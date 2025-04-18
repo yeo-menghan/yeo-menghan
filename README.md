@@ -151,7 +151,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   </tr>
   <tr>
     <td align="center">
-      <img src="./public/NUS-cisco.png" alt="NUS-Cisco" width="100"/><br/>
+      <img src="./public/NUS-cisco.jpeg" alt="NUS-Cisco" width="100"/><br/>
     </td>
     <td align="center">
       <img src="./public/rockship.jpg" alt="rockship" width="100"/><br/>
