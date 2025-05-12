@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  Based in Singapore
 * ✉️  You can contact me at [yeomenghan1989@gmail.com](mailto:yeomenghan1989@gmail.com)
-* 🧠  Currently pursuing my Google ML & AWS Certification
+* 🧠  Currently pursuing my AWS Certification
 * 🤝  I'm open to collaborating on AI-related applications
 
 ### Socials
