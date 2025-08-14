@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Meng Han
 ====================================================================================================================================
 
-<h3 align="left">💻 Final Year NUS Computer Engineering Undergraduate </h3>
-<h3 align="left">💾 Incoming NUS Master's student in Data Science & Machine Learning </h3>
+<h3 align="left">💾 Currently pursuing a Master of Science in Data Science & Machine Learning at NUS</h3>
+<h3 align="left">💻 Bachelor of Engineering (Computer Engineering) graduate from NUS</h3>
 <h3 align="left">🎮  Aspiring AI / ML & Cloud Engineer </h3>
 
 * 🌍  Based in Singapore
@@ -145,11 +145,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <table align="left">
   <tr>
-    <th>2025</th>
-    <th>2024</th>
-    <th>2023</th>
+    <th style="text-align: center;">2025 Summer</th>
+    <th style="text-align: center;">2025</th>
+    <th style="text-align: center;">2024</th>
+    <th style="text-align: center;">2023 Summer</th>
   </tr>
   <tr>
+    <td align="center">
+      <img src="./public/Changi_Airport_logo.svg.png" alt="NUS-Cisco" width="100"/><br/>
+    </td>
     <td align="center">
       <img src="./public/NUS-cisco.jpeg" alt="NUS-Cisco" width="100"/><br/>
     </td>
@@ -161,8 +165,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     </td>
   </tr>
   <tr>
-    <td>Computer Vision Research Assistant</td>
-    <td>AI / ML & Computer Vision Engineer</td>
-    <td>Robotics Engineer Intern</td>
+    <td style="text-align: center;">Machine Learning Engineer Intern</td>
+    <td style="text-align: center;">Computer Vision Research Assistant</td>
+    <td style="text-align: center;">AI / ML & Computer Vision Engineer Intern</td>
+    <td style="text-align: center;">Robotics Engineer Intern</td>
   </tr>
 </table>
