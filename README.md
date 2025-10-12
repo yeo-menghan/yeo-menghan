@@ -3,11 +3,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <h3 align="left">💾 Currently pursuing a Master of Science in Data Science & Machine Learning at NUS</h3>
 <h3 align="left">💻 Bachelor of Engineering (Computer Engineering) graduate from NUS</h3>
-<h3 align="left">🎮  Aspiring AI / ML & Cloud Engineer </h3>
+<h3 align="left">🎮  Aspiring AI / ML Engineer </h3>
 
 * 🌍  Based in Singapore
 * ✉️  You can contact me at [yeomenghan1989@gmail.com](mailto:yeomenghan1989@gmail.com)
-* 🧠  Currently pursuing my AWS Certification
+* 🧠  Currently deep-diving in Machine Learning & AI (LLMs and Diffusion Models)
 * 🤝  I'm open to collaborating on AI-related applications
 
 ### Socials
